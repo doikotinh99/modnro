@@ -1,0 +1,25 @@
+phím tắt: 
+m - Mở đổi khu nhanh
+b - dùng bông tai
+c - dùng capsule
+t - sử dụng tdlt
+r - chat
+q - dừng auto quay thượng đế
+e - auto hồi sinh bằng ngọc (tự động bật khi dùng nk)
+chat:
+nkX - auto farm and dọn rương
+abh - Auto ăn bh
+agx - Auto ăn gx
+acn - Auto ăn cn
+abk - Auto ăn bk
+vqtd - auto quay thượng đế đến map r chat
+anhat - auto nhặt
+v1 - danh sách người trong map
+v2 - thông tin đệ tử
+ts - tàn sát tất cả
+ts X - tàn sát dưới X HP
+s_X - tốc độ chạy X
+cheat_X - cheat X
+tl - gọi Ca Lích nhanh
+amd - auto sử dụng máy dò
+

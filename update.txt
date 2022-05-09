@@ -1,0 +1,6 @@
+nk không cần dùng tdlt
+- Tự về lại khu cũ sau khi mất kết nối
+- fix lỗi map 2 đã up được và về lại khu cũ
+- key e - auto hồi sinh - chat nk tự động auto hs
+- auto login tự về lại khu up và tiếp tục up
+- ... tự tìm hiểu thêm
